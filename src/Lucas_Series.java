@@ -2,9 +2,9 @@
 public class Lucas_Series implements ISubscriber {
 	public static int Lucas(int x) {
 		switch (x) {
-		case 1:
+		case 0:
 			return 2;
-		case 2:
+		case 1:
 			return 1;
 		default:
 			return Lucas(x - 1) + Lucas(x - 2);
