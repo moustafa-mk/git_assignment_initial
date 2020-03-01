@@ -5,6 +5,7 @@ public class Main {
 			//new SimpleSubscriber(),
 			//new ReallySimpleSubscriber(),
 			new Lucas_Series(),
+			new Summation_Series (),
 	};
 	public static void main(String[] args) {
 		Topic mathTopic = new Topic();
