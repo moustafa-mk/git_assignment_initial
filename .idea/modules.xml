@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GitAssignmentObserver.iml" filepath="$PROJECT_DIR$/GitAssignmentObserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git_assignment_initial.iml" filepath="$PROJECT_DIR$/git_assignment_initial.iml" />
     </modules>
   </component>
 </project>
