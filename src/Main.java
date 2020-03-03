@@ -5,11 +5,7 @@ public class Main {
 			//new SimpleSubscriber(),
 			//new ReallySimpleSubscriber(),
 			new Lucas_Series(),
-			new fibonacci(),/*20170129*/
-			new SphereVolume(),
-			new Summation_Series (),
-			new CircleCircumference(),
-            new BallVolume()
+			new Multiplication_Series(),
 	};
 	public static void main(String[] args) {
 		Topic mathTopic = new Topic();
