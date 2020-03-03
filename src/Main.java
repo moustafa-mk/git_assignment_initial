@@ -8,7 +8,7 @@ public class Main {
 			new fibonacci(),/*20170129*/
 			new SphereVolume(),
 			new Summation_Series (),
-			new CircleCircumference()
+			new CircleCircumference(),
 		new CircleArea(),
 	};
 	public static void main(String[] args) {
