@@ -1,4 +1,4 @@
-public class CircleVolume implements ISubscriber {
+public class SphereVolume implements ISubscriber {
     @Override
     public void notifySubscriber(String input) {
         Double radius = Double.parseDouble(input);
