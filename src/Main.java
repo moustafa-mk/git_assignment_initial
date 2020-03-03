@@ -6,8 +6,8 @@ public class Main {
 			//new ReallySimpleSubscriber(),
 			new Lucas_Series(),
 			new fibonacci(),/*20170129*/
-			new Summation_Series (),
-			new SphereVolume()
+			new CircleVolume(),
+			new Summation_Series ()
 	};
 	public static void main(String[] args) {
 		Topic mathTopic = new Topic();
