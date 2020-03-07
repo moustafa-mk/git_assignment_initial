@@ -8,12 +8,10 @@ public class Main {
 			new fibonacci(),/*20170129*/
 			new SphereVolume(),
 			new Summation_Series (),
-
-		         new CircleArea(),
-			new CircleCircumference()
-		
-
-
+		  new CircleArea(),
+			new CircleCircumference(),
+      new BallVolume(),
+			new Multiplication_Series(),
 	};
 	public static void main(String[] args) {
 		Topic mathTopic = new Topic();
