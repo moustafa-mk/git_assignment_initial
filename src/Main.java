@@ -12,6 +12,11 @@ public class Main {
 			new CircleCircumference(),
       new BallVolume(),
 			new Multiplication_Series(),
+			new fibonacci(),/*20170129*/
+			new SphereVolume(),
+			new Summation_Series (),
+			new CircleCircumference(),
+
 	};
 	public static void main(String[] args) {
 		Topic mathTopic = new Topic();
